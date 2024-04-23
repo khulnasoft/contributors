@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://khulnasoft.com" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/2233092/213641039-220ac15f-f367-4d13-9eaf-56e79433b8c1.png">
-    <img src="https://user-images.githubusercontent.com/2233092/213641043-3bbb3f21-3c53-4e67-afe5-755aeb222159.png" width="200" alt="Teleflow Logo"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/43526139?s=400&u=4355b45dd52b19a45a83f86b7f90ef5ad6ecc2cb&v=4">
+    <img src="https://avatars.githubusercontent.com/u/43526139?s=400&u=4355b45dd52b19a45a83f86b7f90ef5ad6ecc2cb&v=4" width="200" alt="Teleflow Logo"/>
   </picture>
   </a>
 </div>
