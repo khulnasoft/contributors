@@ -1,0 +1,31 @@
+{
+  "extends": "@nrwl/workspace/presets/core.json",
+  "npmScope": "contributors",
+  "affected": {
+    "defaultBase": "main"
+  },
+  "cli": {
+    "defaultCollection": "@nrwl/node"
+  },
+  "tasksRunnerOptions": {
+    "default": {
+      "runner": "@nrwl/workspace/tasks-runners/default",
+      "options": {
+        "cacheableOperations": ["build", "lint", "test", "e2e"]
+      }
+    }
+  },
+  "defaultProject": "worker",
+  "generators": {
+    "@nrwl/react": {
+      "application": {
+        "babel": true
+      }
+    },
+    "@nrwl/gatsby": {
+      "application": {
+        "style": "scss"
+      }
+    }
+  }
+}
